@@ -1,0 +1,63 @@
+body{
+  background-image: url("/pexels-francesco-ungaro-998641.jpg");
+  background-size: 1000px;
+}
+
+.sun{
+  background: red;
+}
+
+.planet{
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+}
+
+.mercury{
+  background: tan;
+  width: 15px;
+  height: 15px;
+}
+
+.venus{
+  background: orange;
+  width: 20px;
+  height: 20px;
+}
+
+.earth{
+  background: blue;
+  width: 35px;
+  height: 35px;
+}
+
+.mars{
+  background: rgb(194, 66, 66);
+  width: 50px;
+  height: 50px;
+}
+
+.jupitor{
+  background: yellow;
+  width: 55px;
+  height: 55px;
+}
+
+.saturn{
+  background: yellowgreen;
+  width: 55px;
+  height: 55px;
+}
+
+.utranus{
+  background: green;
+  width: 50px;
+  height: 50px;
+}
+
+.neptune{
+  background: navy;
+  width: 50px;
+  height: 50px;
+}
